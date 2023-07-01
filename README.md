@@ -12,13 +12,17 @@
 
 `If your message doesn't get read the first time, please retype your message again or use TTS to get my attention`
 
-+ Streaming isn't an easy thing to do. My eyes are constantly looking between three or more different monitors; reading chat, playing a game, making sure that audio / text to speech / video and the stream is still working properly across two different computers and two different capture cards. I'm basically running a television station all by myself. Please be a patient and understanding viewer and it will be greatly rewarded.
++ :dove: Streaming isn't an easy thing to do. My eyes are constantly looking between three or more different monitors; reading chat, playing a game, making sure that audio / text to speech / video and the stream is still working properly across two different computers and two different capture cards. I'm basically running a television station all by myself. Please be a patient and understanding viewer and it will be greatly rewarded.
 
 `Don't bring in alts to evade timeout`
 
 + I timed you out for a reason, your alt will get banned, and then your main account.
-  
 
+`Don't ask to be a moderator`
+
++ I don't need many moderators, but if I were to ask someone to be my moderator, it certainly won't be someone who begs for it, especially if you haven't been around for very long.
+
+  
 # Contact
 
 ## Social
@@ -67,6 +71,12 @@ Stars spawn across the avatar space, where you can jump to catch them.
 Bosses can be fought with viewers. Whe a boss appears, type the command below to review how to play.
 
 `!bossinfo`
+
+You can buy a boss battle for the entire chat for **150 Points**
+
+`!bossfight`
+
++ :warning: **WARNING** : ASK CHAT IF ANYONE WOULD LIKE TO PARTICIPATE IN A BOSS FIGHT BEFORE BUYING A BOSS!!! It takes at **LEAST TWO PEOPLE TO BEAT A BOSS** sometimes even three people, so if nobody joins, no refunds!
 
 # Text-To-Speech
 
