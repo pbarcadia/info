@@ -78,6 +78,14 @@ You can buy a boss battle for the entire chat for **150 Points**
 
 + :warning: **WARNING** : ASK CHAT IF ANYONE WOULD LIKE TO PARTICIPATE IN A BOSS FIGHT BEFORE BUYING A BOSS!!! It takes at **LEAST TWO PEOPLE TO BEAT A BOSS** sometimes even three people, so if nobody joins, no refunds!
 
+## Battle Royale
+
+You can buy a battle royale for **150 Points**
+
+`!battle`
+
++ :dove: if I win the battle royale on accident, I will refund your points.
+
 # Text-To-Speech
 
 ## SIMPLE RULES TO FOLLOW
