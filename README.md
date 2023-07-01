@@ -182,37 +182,37 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 
 ## Soundboard (15 Points)
 
-+ :loudspeaker: `!angry (message)`
-+ :loudspeaker: `!aww (message)`
-+ :loudspeaker: `!banana (message)`
-+ :loudspeaker: `!bell (message)`
-+ :loudspeaker: `!bonk (message)`
-+ :loudspeaker: `!Boo (message)` (Audience Booing!)
-+ :loudspeaker: `!bruh (message)`
-+ :loudspeaker: `!chacha (message)` (HYPE!)
-+ :loudspeaker: `!clap (message)`
-+ :loudspeaker: `!correct (message)`
-+ :loudspeaker: `!defeat (message)`
-+ :loudspeaker: `!goodluck (message)`
-+ :loudspeaker: `!lol (message)`
-+ :loudspeaker: `!nope (message)`
-+ :loudspeaker: `!ohno (message)`
-+ :loudspeaker: `!okay (message)`
-+ :loudspeaker: `!pkgun (message)`
-+ :loudspeaker: `!poggers (message)`
-+ :loudspeaker: `!rimshot (message)`
-+ :loudspeaker: `!rogue (message)`
-+ :loudspeaker: `!sad (message)`
-+ :loudspeaker: `!shocked (message)`
-+ :loudspeaker: `!solong (message)`
-+ :loudspeaker: `!shocked (message)`
-+ :loudspeaker: `!sus (message)`
-+ :loudspeaker: `!wow (message)`
-+ :loudspeaker: `!zug (message)`
-+ :loudspeaker: `!badbone (message)`
-+ :loudspeaker: `!deez (message)`
-+ :loudspeaker: `!myleg (message)`
-+ :loudspeaker: `!sheesh (message)`
-+ :loudspeaker: `!spongefail (message)`
-+ :loudspeaker: `!dogdoin (message)`
-+ :loudspeaker: `!xfiles (message)`
++ :loudspeaker: `!angry`
++ :loudspeaker: `!aww`
++ :loudspeaker: `!banana`
++ :loudspeaker: `!bell`
++ :loudspeaker: `!bonk`
++ :loudspeaker: `!Boo` (Audience Booing!)
++ :loudspeaker: `!bruh`
++ :loudspeaker: `!chacha` (HYPE!)
++ :loudspeaker: `!clap`
++ :loudspeaker: `!correct`
++ :loudspeaker: `!defeat`
++ :loudspeaker: `!goodluck`
++ :loudspeaker: `!lol`
++ :loudspeaker: `!nope`
++ :loudspeaker: `!ohno`
++ :loudspeaker: `!okay`
++ :loudspeaker: `!pkgun`
++ :loudspeaker: `!poggers`
++ :loudspeaker: `!rimshot`
++ :loudspeaker: `!rogue`
++ :loudspeaker: `!sad`
++ :loudspeaker: `!shocked`
++ :loudspeaker: `!solong`
++ :loudspeaker: `!shocked`
++ :loudspeaker: `!sus`
++ :loudspeaker: `!wow`
++ :loudspeaker: `!zug`
++ :loudspeaker: `!badbone`
++ :loudspeaker: `!deez`
++ :loudspeaker: `!myleg`
++ :loudspeaker: `!sheesh`
++ :loudspeaker: `!spongefail`
++ :loudspeaker: `!dogdoin`
++ :loudspeaker: `!xfiles`
