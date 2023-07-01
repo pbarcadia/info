@@ -1,3 +1,48 @@
+# Chat Rules
+
+`Don't beg for points / drip`
+
+`If you want something, ask nicely`
+
++ Please and thank you go a very long way in both life, and my stream.
+
+`No hit and run self promotions`
+
++ If we're friends, if you are a regular viewer, I will not get mad if you want to self promote yourself. However, if you come into my stream and broadcast that someone else is live, or that you uploaded a new video and I should react to it (if it isn't a react stream), then your message will be ignored.
+
+`If your message doesn't get read the first time, please retype your message again or use TTS to get my attention`
+
++ Streaming isn't an easy thing to do. My eyes are constantly looking between three or more different monitors; reading chat, playing a game, making sure that audio / text to speech / video and the stream is still working properly across two different computers and two different capture cards. I'm basically running a television station all by myself. Please be a patient and understanding viewer and it will be greatly rewarded.
+
+`Don't bring in alts to evade timeout`
+
++ I timed you out for a reason, your alt will get banned, and then your main account.
+  
+
+# Contact
+
+## Social
+
++ :speech_balloon: Discord: https://discord.com/invite/fbmcwwtwTu
+
++ :envelope: Email: polybiusarcadia@icloud.com
+
++ :alien: Reddit: https://www.reddit.com/r/PolybiusArcadia
+
+## Friend Codes
+
++ Steam: https://s.team/p/dwn-kcct/nmgdvjtq
+
++ Xbox Gamertag: Polybius6252
+
++ Switch: 3755-9353-1411
+
++ Fortnite : Po1ybius_
+
++ EA : Po1yb1us
+
++ Roblox : @PolybiusArcadia
+
 # Avatars
 ## How To Change Your Avatar
 The link to change your avatar is here:
@@ -17,15 +62,21 @@ Stars spawn across the avatar space, where you can jump to catch them.
 
 `!jump`
 
+## Bosses
 
+Bosses can be fought with viewers. Whe a boss appears, type the command below to review how to play.
+
+`!bossinfo`
 
 # Text-To-Speech
 
 ## SIMPLE RULES TO FOLLOW
 :no_entry_sign: **DO NOT:** USE TEXT TO SPEECH TO SPAM ANNOYING, REPETITIVE, OBNOXIOUS MESSAGES.
 
-+ **First time will be a warning, but if you do this multiple times, your point balance will be set to -1000!**
++ **First time will be a warning, but if you do a second time, your point balance will be set to -1000**
 + **I ask you to use common sense in general when using text to speech. Jokes are fine, long messages are fine as long as they are well thought out, or funny. No hate or vitriol!**
++ **You may see me give a lot of points away to frequent viewers that use text to speech properly! Instead of complaining about not getting free points, use it properly and over time, if I trust you, I will give you lots of points too!**
+
 
 ## How To Use Text To Speech
 
