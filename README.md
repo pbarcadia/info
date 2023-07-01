@@ -1,7 +1,24 @@
 # Avatars
 ## How To Change Your Avatar
 The link to change your avatar is here:
+
 https://server.streamavatars.com/viewer.html?channel_id=UCbZKmQ-M6_Xd89pvghsPiPw&platform=youtube
+
+Click the link above, log in with google / youtube and wait for it to load. 
++ It might take up to a minute to load so please be patient!
+
+Once you are logged in, you can spend points to buy avatars with Drip!
+
+## How Do I Get Drip?
+
+Getting drip is easy as talking in chat every so often. You can also earn drip by catching stars.
+
+Stars spawn across the avatar space, where you can jump to catch them.
+
+`!jump`
+
+
+
 # Text-To-Speech
 
 ## SIMPLE RULES TO FOLLOW
@@ -11,6 +28,15 @@ https://server.streamavatars.com/viewer.html?channel_id=UCbZKmQ-M6_Xd89pvghsPiPw
 + **I ask you to use common sense in general when using text to speech. Jokes are fine, long messages are fine as long as they are well thought out, or funny. No hate or vitriol!**
 
 ## How To Use Text To Speech
+
++ :warning: **WARNING** : You first need to earn points to use text to speech!
+
+### How do I earn text to speech points?
+
+Every FIVE minutes, my bot issues out points to who ever has typed something in chat within those five minutes! Simply participate in chat and you will earn points. These points are also shared with **SFX & REACTIONS**
+
++ :no_entry_sign: To further clarify, spamming as much as you can will not increase your points! Don't try to spam up chat with random crap to get points! It won't work, and I'll probably just ban you for being an iPad kid for that kind of behavior.
+
 In youtube chat, you will need to type a voice command. The default is !m
 Your youtube message should look like this:
 
@@ -68,6 +94,14 @@ EXAMPLE: !sunshine hello PB! how are you today? This is a song I wrote for chat!
 # SFX & REACTIONS
 
 Redeem fun sound effects that play over the stream audio!
+
++ :warning: **WARNING** : You first need to earn points to use text to speech!
+
+### How do I earn points?
+
+Every FIVE minutes, my bot issues out points to who ever has typed something in chat within those five minutes! Simply participate in chat and you will earn points. These points are also shared with **TEXT TO SPEECH**
+
+## Soundboard (15 Points)
 
 + :loudspeaker: `!angry (message)`
 + :loudspeaker: `!aww (message)`
