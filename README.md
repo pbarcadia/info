@@ -117,7 +117,9 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 In youtube chat, you will need to type a voice command. The default is !m
 Your youtube message should look like this:
 
-+ `!m hello this is my text to speech message!`
++ :white_check_mark: `!m hello this is my text to speech message!`
+
++ :x: DON'T type this: `!m`
 
 **REGULAR SPEAKING VOICES COSTS 15 POINTS TO USE PER MESSAGE**
 
