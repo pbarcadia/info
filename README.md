@@ -86,6 +86,14 @@ You can buy a battle royale for **150 Points**
 
 + :dove: if I win the battle royale on accident, I will refund your points.
 
+## Other Avatar Commands
+
+There are other fun commands such as
+
+`!sit` `!fart` `!afk` `!throw` `!slots 100` and many more, please see the official documentation here:
+
+https://docs.streamavatars.com/stream-avatars/commands
+
 # Text-To-Speech
 
 ## SIMPLE RULES TO FOLLOW
