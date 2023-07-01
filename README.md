@@ -192,6 +192,7 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!chacha` (HYPE!)
 + :loudspeaker: `!clap`
 + :loudspeaker: `!correct`
++ :loudspeaker: `!incorrect`
 + :loudspeaker: `!defeat`
 + :loudspeaker: `!goodluck`
 + :loudspeaker: `!lol`
