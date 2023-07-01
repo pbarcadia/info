@@ -209,3 +209,10 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!sus (message)`
 + :loudspeaker: `!wow (message)`
 + :loudspeaker: `!zug (message)`
++ :loudspeaker: `!badbone (message)`
++ :loudspeaker: `!deez (message)`
++ :loudspeaker: `!myleg (message)`
++ :loudspeaker: `!sheesh (message)`
++ :loudspeaker: `!spongefail (message)`
++ :loudspeaker: `!dogdoin (message)`
++ :loudspeaker: `!xfiles (message)`
