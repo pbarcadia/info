@@ -211,6 +211,10 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!wow`
 + :loudspeaker: `!zug`
 + :loudspeaker: `!badbone`
++ :loudspeaker: `!betrayal`
++ :loudspeaker: `!doublekill`
++ :loudspeaker: `!impressive`
++ :loudspeaker: `!KO`
 + :loudspeaker: `!deez`
 + :loudspeaker: `!myleg`
 + :loudspeaker: `!sheesh`
