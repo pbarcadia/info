@@ -162,6 +162,10 @@ Stormtrooper From _**"STAR WARS"**_
 
 + :loudspeaker: `!stormtrooper (message)` or `!s (message)`
 
+C3PO From _**"STAR WARS"**_
+
++ :loudspeaker: `!c3po (message)` or `!c (message)`
+
 Rocket Racoon From _**"GUARDIANS OF THE GALAXY"**_
 
 + :loudspeaker: `!rocket (message)` or `!r (message)`
