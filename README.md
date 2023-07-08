@@ -130,9 +130,7 @@ You can instead replace !m with other voices. The list is:
 
 ## Text To Speech Voices
 
-### Male Voices
-
-TikTok Guy:
+### TTS Voices
 
 + :loudspeaker: :us: US Accent
   + :male_sign: `!m (message)` or :female_sign: `!f (message)`
@@ -155,13 +153,6 @@ TikTok Guy:
 + :loudspeaker: :de: DE Accent
   + :male_sign: `!dem (message)` or :female_sign: `!def (message)`
  
-### Female Voices
-
-TikTok Girl:
-
-+ :loudspeaker: :us: US Default
-  + `!f (message)`
-
 ### Special Voices (15 Points)
 Ghostface From _**"SCREAM"**_
 
