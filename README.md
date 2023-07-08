@@ -133,7 +133,7 @@ You can instead replace !m with other voices. The list is:
 
 TikTok Guy:
 
-+ :loudspeaker: `!m (message)`
++ :loudspeaker: US MALE `!m (message)`
 
 EXAMPLE: !m hello PB!
 
@@ -146,15 +146,15 @@ TikTok Girl:
 ### Special Voices (15 Points)
 Ghostface From _**"SCREAM"**_
 
-+ :loudspeaker: `!ghostface (message)`
++ :loudspeaker: `!ghostface (message)` or `!g (message)`
 
 Stormtrooper From _**"STAR WARS"**_
 
-+ :loudspeaker: `!stormtrooper (message)`
++ :loudspeaker: `!stormtrooper (message)` or `!s (message)`
 
 Rocket Racoon From _**"GUARDIANS OF THE GALAXY"**_
 
-+ :loudspeaker: `!rocket (message)`
++ :loudspeaker: `!rocket (message)` or `!r (message)`
 
 ### Singing Voices (35 Points Each)
 
