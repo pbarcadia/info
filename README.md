@@ -102,6 +102,7 @@ https://docs.streamavatars.com/stream-avatars/commands
 + **First time will be a warning, but if you do a second time, your point balance will be set to -1000**
 + **I ask you to use common sense in general when using text to speech. Jokes are fine, long messages are fine as long as they are well thought out, or funny. No hate or vitriol!**
 + **You may see me give a lot of points away to frequent viewers that use text to speech properly! Instead of complaining about not getting free points, use it properly and over time, if I trust you, I will give you lots of points too!**
++ + **TTS messages are not heard by anyone I may be in a Discord voice chat with. Sorry!**
 
 
 ## How To Use Text To Speech
