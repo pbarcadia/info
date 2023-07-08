@@ -134,15 +134,33 @@ You can instead replace !m with other voices. The list is:
 
 TikTok Guy:
 
-+ :loudspeaker: US MALE `!m (message)`
++ :loudspeaker: :us: US Accent
+  + :male_sign: `!m (message)` or :female_sign: `!f (message)`
 
-EXAMPLE: !m hello PB!
++ :loudspeaker: 🇬🇧 UK Accent
+  + :male_sign: `!ukm (message)`
+ 
++ :loudspeaker: :fr: FR Accent
+  + :male_sign: `!frm (message)`
 
++ :loudspeaker: :es: ES Accent
+  + :male_sign: `!esm (message)`
+
++ :loudspeaker: 🇧🇷 BR Accent
+  + :male_sign: `!brm (message)` or :female_sign: `!brf (message)`
+ 
++ :loudspeaker: :australia: AU Accent
+  + :male_sign: `!aum (message)` or :female_sign: `!auf (message)`
+ 
++ :loudspeaker: :de: DE Accent
+  + :male_sign: `!dem (message)` or :female_sign: `!def (message)`
+ 
 ### Female Voices
 
 TikTok Girl:
 
-+ :loudspeaker: `!f (message)`
++ :loudspeaker: :us: US Default
+  + `!f (message)`
 
 ### Special Voices (15 Points)
 Ghostface From _**"SCREAM"**_
