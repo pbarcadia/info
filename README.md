@@ -235,6 +235,24 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!spongefail`
 + :loudspeaker: `!dogdoin`
 + :loudspeaker: `!xfiles`
++ :loudspeaker: `!catdoin`
++ :loudspeaker: `!diemonster`
++ :loudspeaker: `!mortalkombat`
++ :loudspeaker: `!getoverhere`
++ :loudspeaker: `!toasty`
++ :loudspeaker: `!wilhelm`
++ :loudspeaker: `!quest`
++ :loudspeaker: `!castledeath`
++ :loudspeaker: `!castlegameover`
++ :loudspeaker: `!gameoveryeah`
++ :loudspeaker: `!homerun`
++ :loudspeaker: `!brutality`
++ :loudspeaker: `!testyourmight`
++ :loudspeaker: `!babality`
++ :loudspeaker: `!friendship`
++ :loudspeaker: `!lolevil`
++ :loudspeaker: `!moregold`
+
 
 # Turtle WoW
 
