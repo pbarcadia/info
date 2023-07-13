@@ -235,3 +235,7 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!spongefail`
 + :loudspeaker: `!dogdoin`
 + :loudspeaker: `!xfiles`
+
+# Turtle WoW
+
+I play Turtle WoW casually. Please don't micromanage how I play, even if it isn't optimal. I also don't see World of Warcraft as the only game that ever existed, so if I ever stream something that isn't Wacraft related, I am not quitting. If you act like an ultra sweat, I'll eject you from chat. We're here to have fun and chat. Please understand this. Thank you.
