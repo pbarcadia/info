@@ -252,7 +252,9 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!friendship`
 + :loudspeaker: `!lolevil`
 + :loudspeaker: `!moregold`
-
++ :loudspeaker: `!swmg` (Shadow Wizard Money Gang)
++ :loudspeaker: `!gottem` (Deez Nuts! Gottem!)
++ :loudspeaker: `!wegottem` (Ladies and Gentlemen... We got em')
 
 # Turtle WoW
 
