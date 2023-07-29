@@ -107,82 +107,12 @@ https://docs.streamavatars.com/stream-avatars/commands
 
 ## How To Use Text To Speech
 
-+ :warning: **WARNING** : You first need to earn points to use text to speech!
-
-### How do I earn text to speech points?
-
-Every FIVE minutes, my bot issues out points to who ever has typed something in chat within those five minutes! Simply participate in chat and you will earn points. These points are also shared with **SFX & REACTIONS**
-
-+ :no_entry_sign: To further clarify, spamming as much as you can will not increase your points! Don't try to spam up chat with random crap to get points! It won't work, and I'll probably just ban you for being an iPad kid for that kind of behavior.
-
-In youtube chat, you will need to type a voice command. The default is !m
+The command to use is `!tts` OR you can also use `!"`
 Your youtube message should look like this:
 
-+ :white_check_mark: **Type this**: `!m hello this is my text to speech message!`
++ :white_check_mark: **Type this**: `!tts hello this is my text to speech message!`
 
-+ :x: **DON'T** type this: `!m`
-
-**REGULAR SPEAKING VOICES COSTS 15 POINTS TO USE PER MESSAGE**
-
-+ :warning: **WARNING** : **_Just typing "!m" in chat and hitting send will waste your points! You NEED a message after "!m". Points will not be refunded!_**
-
-You can instead replace !m with other voices. The list is:
-
-## Text To Speech Voices
-
-### TTS Voices
-
-+ :loudspeaker: :us: US Accent
-  + :male_sign: `!m (message)` or :female_sign: `!f (message)`
-
-+ :loudspeaker: 🇬🇧 UK Accent
-  + :male_sign: `!ukm (message)`
- 
-+ :loudspeaker: :fr: FR Accent
-  + :male_sign: `!frm (message)`
-
-+ :loudspeaker: :es: ES Accent
-  + :male_sign: `!esm (message)`
-
-+ :loudspeaker: 🇧🇷 BR Accent
-  + :male_sign: `!brm (message)` or :female_sign: `!brf (message)`
- 
-+ :loudspeaker: :australia: AU Accent
-  + :male_sign: `!aum (message)` or :female_sign: `!auf (message)`
- 
-+ :loudspeaker: :de: DE Accent
-  + :male_sign: `!dem (message)` or :female_sign: `!def (message)`
- 
-### Special Voices (15 Points)
-Ghostface From _**"SCREAM"**_
-
-+ :loudspeaker: `!ghostface (message)` or `!g (message)`
-
-Stormtrooper From _**"STAR WARS"**_
-
-+ :loudspeaker: `!stormtrooper (message)` or `!s (message)`
-
-C3PO From _**"STAR WARS"**_
-
-+ :loudspeaker: `!c3po (message)` or `!c (message)`
-
-Rocket Racoon From _**"GUARDIANS OF THE GALAXY"**_
-
-+ :loudspeaker: `!rocket (message)` or `!r (message)`
-
-### Singing Voices (35 Points Each)
-
-+ :loudspeaker: `!alto (message)`
-`!tenor (message)`
-`!breezy (message)`
-`!chipmunk (message)`
-`!dramatic (message)`
-`!goesup (message)`
-`!sunshine (message)`
-
-EXAMPLE: !sunshine hello PB! how are you today? This is a song I wrote for chat!
-
-+ :warning: **WARNING** : _**!Chipmunk & !Goesup can only sing up to 3 words! Keep that in mind! (Sorry!)**_
++ :warning: **WARNING** : **_Just typing "!tts" in chat and hitting send will waste your points! You NEED a message after "!m". Points will not be refunded!_**
 
 # SFX & REACTIONS
 
