@@ -31,7 +31,7 @@
 
 + :envelope: Email: polybiusarcadia@icloud.com
 
-+ 🐦 Twitter: @PolybiusArcadia
++ 🐦 Twitter: [@PolybiusArcadia](https://twitter.com/PolybiusArcadia)
 
 + :alien: Reddit: https://www.reddit.com/r/PolybiusArcadia
 
