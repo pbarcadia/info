@@ -31,6 +31,8 @@
 
 + :envelope: Email: polybiusarcadia@icloud.com
 
++ 🐦 Twitter: @PolybiusArcadia
+
 + :alien: Reddit: https://www.reddit.com/r/PolybiusArcadia
 
 ## Friend Codes
