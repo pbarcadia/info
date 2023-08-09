@@ -184,7 +184,6 @@ Every FIVE minutes, my bot issues out points to who ever has typed something in 
 + :loudspeaker: `!xfiles`
 + :loudspeaker: `!catdoin`
 + :loudspeaker: `!diemonster`
-+ :loudspeaker: `!mortalkombat`
 + :loudspeaker: `!getoverhere`
 + :loudspeaker: `!toasty`
 + :loudspeaker: `!wilhelm`
