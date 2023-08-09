@@ -107,10 +107,15 @@ https://docs.streamavatars.com/stream-avatars/commands
 
 ## How To Use Text To Speech
 
-The command to use is `!tts` OR you can also use `!"`
+The command to use is `!m` OR you can also use `!f` for male and female voices.
+
+More commands, for espanol, australian, and british accents.
+
+`!esm` `esf` `!aum` `!auf` `!brm` `!brf`
+
 Your youtube message should look like this:
 
-+ :white_check_mark: **Type this**: `!tts hello this is my text to speech message!`
++ :white_check_mark: **Type this**: `!m hello this is my text to speech message!`
 
 + :warning: **WARNING** : **_Just typing "!tts" in chat and hitting send will waste your points! You NEED a message after "!m". Points will not be refunded!_**
 
@@ -123,6 +128,18 @@ Redeem fun sound effects that play over the stream audio!
 ### How do I earn points?
 
 Every FIVE minutes, my bot issues out points to who ever has typed something in chat within those five minutes! Simply participate in chat and you will earn points. These points are also shared with **TEXT TO SPEECH**
+
+## Voice Changer (100 Points)
+
++ :loudspeaker: `!vAstro`
++ :loudspeaker: `!vChad`
++ :loudspeaker: `!vSpecOps`
++ :loudspeaker: `!vEcho`
++ :loudspeaker: `!vEvilAI`
++ :loudspeaker: `!vHoly` 
++ :loudspeaker: `!vPilot`
++ :loudspeaker: `!vSWMG` (HYPE!)
++ :loudspeaker: `!vTrooper`
 
 ## Soundboard (15 Points)
 
